@@ -19,7 +19,7 @@ const Index = () => {
               <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-primary/5 pointer-events-none"></div>
               
               <img 
-                src="https://cdn.poehali.dev/projects/08cdcf5d-3c8a-42e1-96fc-cb5574fe32ed/files/b6bf6d3f-6cb6-40c6-b4bd-b67c06ff4d33.jpg"
+                src="https://cdn.poehali.dev/projects/08cdcf5d-3c8a-42e1-96fc-cb5574fe32ed/files/82815ce9-b92f-44b6-94ac-a51e450ca859.jpg"
                 alt="Винтажная новогодняя открытка"
                 className="w-full h-auto animate-glow"
               />
