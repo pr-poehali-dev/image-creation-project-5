@@ -4,7 +4,7 @@ import { useState, useRef } from "react";
 import Icon from "@/components/ui/icon";
 
 const Index = () => {
-  const [uploadedImage, setUploadedImage] = useState<string | null>("https://cdn.poehali.dev/projects/08cdcf5d-3c8a-42e1-96fc-cb5574fe32ed/files/e0fdb1d6-8fd9-4468-843f-ce11c5789c91.jpg");
+  const [uploadedImage, setUploadedImage] = useState<string | null>("https://cdn.poehali.dev/projects/08cdcf5d-3c8a-42e1-96fc-cb5574fe32ed/files/dbb8eab4-3897-4d54-a542-45a7e13f7b95.jpg");
   const [greetingText, setGreetingText] = useState("С Новым годом");
   const fileInputRef = useRef<HTMLInputElement>(null);
   const cardRef = useRef<HTMLDivElement>(null);
